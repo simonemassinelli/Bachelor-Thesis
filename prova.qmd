@@ -1,0 +1,105 @@
+---
+format: pdf
+header-includes:
+  - \usepackage{graphicx}
+  - \usepackage{fancyhdr}
+  - \usepackage{geometry}
+  - \geometry{top=1in, bottom=1in, left=1in, right=1in}
+  - \usepackage{fontspec}
+  - \setmainfont{Times New Roman}
+  - \renewcommand{\normalsize}{\Large}
+  - \usepackage{ragged2e}
+  - \usepackage[font=Large,justification=raggedright,singlelinecheck=false]{caption}
+  - \usepackage{sectsty}
+  - \sectionfont{\Large\bfseries}
+  - \subsectionfont{\large\bfseries}
+  - \renewcommand{\thesection}{}
+  - \renewcommand{\thesubsection}{}
+hyperrefoptions: "colorlinks=true, linkcolor=black, citecolor=black, urlcolor=black, pdfborder={0 0 0}"
+---
+
+\thispagestyle{empty}
+\begin{center}
+\begin{minipage}[c]{0.25\textwidth}
+  \includegraphics[width=4cm]{logouniversita.png}
+\end{minipage}
+\hfill
+\begin{minipage}[c]{0.7\textwidth}
+{\huge UNIVERSITÀ DEGLI} \\[0.5cm]
+{\huge STUDI DI PERUGIA} \\[0.5cm]
+BACHELOR’S DEGREE IN ENGINEERING \\[0.1cm]
+MANAGEMENT
+\end{minipage}
+\end{center}
+
+\vspace{5cm}
+
+\begin{center}
+{\huge The Significance of Quantitative Analysis} \\[0.5cm]
+{\huge and Monitoring Capability Indices in} \\[0.5cm]
+{\huge Process Quality Standardization and Control}
+\end{center}
+
+\vfill
+
+\begin{flushleft}
+Thesis Author: Simone Massinelli \\[0.1cm]
+Thesis Advisor: Gianluca Rossi \\[0.1cm]
+Thesis Co-Advisor: Alessio Troiani
+\end{flushleft}
+
+\newpage
+
+\thispagestyle{empty}
+
+\tableofcontents
+
+\vspace{1cm}
+
+\tableofcontents
+
+\newpage
+
+\setcounter{page}{1}
+{\Large\bfseries Introduction}
+\section{Introduction}
+\subsection{The Company’s Request and my Internship Experience}
+\subsection{My Personal Goal}
+\subsection{Objectives and Structure of the Thesis}
+
+{\Large\bfseries Part 1 : The Standardization Process and a Practical Application within the Company}
+\part{The Standardization Process and a Practical Application within the Company}
+
+{\Large\bfseries The Standardization Process}
+\section{The Standardization Process}
+\subsection{Role of ISO 9001 within the Company}
+\subsection{Description of the Document SPPAP}
+\subsection{Submission and Approval}
+
+{\Large\bfseries Description of the Standardized Component}
+\section{Description of the Standardized Component}
+\subsection{The L-Shape Rotary Hammer}
+\subsection{Gearbox of the Tool}
+
+{\Large\bfseries The Measuring Instrument and the Gage R\&R}
+\section{The Measuring Instrument and the Gage R\&R}
+\subsection{ZEISS Contura CMM}
+\subsection{Gage R\&R Process and Results}
+
+{\Large\bfseries Cpk Index and Other Statistical Tools}
+\section{Cpk Index and Other Statistical Tools}
+\subsection{Cpk Index}
+\subsection{Associated Parameters}
+\subsection{Normalization by Means of Transforms}
+
+{\Large\bfseries Part 2 : Statistical Analysis of the Evolution of the Cpk Index and its Benefits}
+\part{Statistical Analysis of the Evolution of the Cpk Index and its Benefits}
+
+{\Large\bfseries Data Collection and Feature Engineering}
+\section{Data Collection and Feature Engineering}
+\section{Data Cleaning}
+\section{Exploratory Data Analysis}
+
+
+
+The Ppk (Process Performance Index) is calculated exactly as the Cpk, but it uses the overall standard deviation instead of the short-term standard deviation. In fact, Since 𝜎overall includes variations due to external factors (materials, environmental conditions, machine drift over time), Ppk is only useful in long-term analysis.However, since all components come from the same batch, Ppk is not relevant during standardization: the only parameter to consider is Cpk.In this specific case, the values in the table are:
