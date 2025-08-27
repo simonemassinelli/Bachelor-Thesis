@@ -1,0 +1,60 @@
+---
+format:
+  pdf:
+    pdf-engine: xelatex
+header-includes:
+  - \usepackage{fontspec}
+  - \setmainfont{Garamond}
+  - \usepackage{geometry}
+  - \geometry{top=1in, bottom=1in, left=1in, right=1in}
+  - \renewcommand{\normalsize}{\Large}
+---
+\thispagestyle{empty}
+\begin{center}
+{\huge Ringraziamenti}
+\end{center}
+
+\begin{flushleft}
+
+\vspace{2cm}
+
+Al termine di questo percorso, ci tengo a ringraziare tutte le persone che ne hanno fatto parte e che hanno contribuito alla mia crescita personale e accademica.\\[4cm]
+
+
+Prima di tutto vorrei ringraziare la mia famiglia e, in special modo, i miei genitori.
+
+Grazie per avermi dato la possibilità di intraprendere questo percorso, senza mai mettermi pressioni, sostenendomi sempre e lasciandomi libero di fare ciò che sentivo più mio, senza mai influenzare le mie scelte se non quando sono stato io a chiedere consiglio. Inoltre, durante questi tre anni, avete sempre lasciato che la mia priorità fosse l’università, pensando a tutto il resto senza che io me ne dovessi preoccupare. Non è stato facile raggiungere alcuni risultati, specialmente nell’ultimo anno, ma se ce l’ho fatta è anche grazie al fatto che mi avete messo nella miglior condizione possibile per poterci arrivare, sacrificandovi per me e facendo dei miei obiettivi i vostri. Non penso che sia possibile ripagare ciò che mi avete dato, ma spero quanto meno di avervi reso orgogliosi.\\[2cm]
+
+\newpage
+\thispagestyle{empty}
+
+Al prof. Giancluca Rossi.
+
+Grazie per avermi assistito nell’elaborazione della tesi e per avermi dato la possibilità di proseguire in ciò che più mi appassionava. Ma soprattutto grazie per avermi permesso di fare un’esperienza di tirocinio in una delle realtà migliori per poter imparare a fondo tutto ciò che desideravo apprendere e approfondire.\\[1cm]
+
+Estendo i ringraziamenti per avermi concesso l’occasione di svolgere l'esperienza di tirocinio anche a Mirco Rossetti e Marco Chielli.\\[1.1cm]
+
+Al team qualità della DeWalt: Paolo, Riccardo, Caritos, Andrea, Silvano, Lorenzo, Alessandro e Marco.
+
+Ho imparato tanto da ognuno di voi. Nonostante la routine super impegnativa, siete sempre riusciti a dedicarmi del tempo per assicurarvi che comprendessi ogni aspetto di come funziona un ambito così bello ed importante. Le conoscenze che mi porto dietro sono sicuramente tante, ma se c’è una cosa della quale sono ancora più grato, è che mi avete fatto sentire un membro del gruppo in tutto e per tutto. Avevo tanti timori prima di iniziare, ma già dal primo giorno in cui ho messo piede in azienda, ho subito capito di avere davanti delle persone fantastiche, e sono contento di aver costruito dei rapporti ben oltre la sola condivisione dello spazio lavorativo. Mi avete fatto passare tre mesi indimenticabili e vi ringrazio per tutto, non potevo chiedere di meglio.\\[1.2cm]
+
+Al prof. Alessio Troiani.
+
+Mi sono presentato nel suo ufficio chiedendole una mano per la tesi senza che lei nemmeno sapesse chi io fossi, e nonostante ciò ha accettato senza esitare, dimostrando da subito grande interesse per il progetto. In tutti questi mesi è sempre stato disponibile, dedicandomi ogni settimana diverse ore del suo tempo, valutando con attenzione tutti i progressi e dandomi ogni volta consigli utili su come poter proseguire. Ogni studente vorrebbe un relatore presente, interessato, e con le conoscenze necessarie, e nel mio caso è stato proprio così, “all’ennesima potenza” per restare in termini matematici. La ringrazio anche per ogni consiglio legato a studio e conoscenza di argomenti extra tesi, e per quelli per il mio percorso accademico.\\[2cm]
+
+\newpage
+\thispagestyle{empty}
+
+Per ultimi, ma non per importanza, i miei compagni di università: Alessia, Alessio, Caterina, Emanuele, Giulia, Lorenzo, Valentina e Viola.
+
+All’inizio di ogni nuovo percorso, ho sempre avuto paura di non incontrare le persone adatte, di non riuscire a creare nuove amicizie, o di farne solo di funzionali. All’inizio dei tre anni conoscevo già alcuni di voi e pensavo che mi sarei dunque limitato alle amicizie che portavo avanti da più tempo, senza lasciarmi la possibilità di conoscere persone nuove. Nonostante queste amicizie siano rimaste, ho avuto anche modo di conoscere il resto di voi, e combinando le due cose si è creato il gruppo che mi ha permesso di vivere tre anni bellissimi. Ognuno di voi mi ha dato tanto e in modo diverso, e vi ringrazio per tutte le esperienze fatte e tutti i momenti passati insieme. Dalle gite fuori porta e giornate assieme, fino alle cose più semplici come le lezioni e ore di studio. Per le gioie e disperazioni condivise dopo ogni esame, e per ogni consiglio, confronto e chiacchierata su argomenti universitari e non. Purtroppo le nostre strade si dividono qua, ma spero che i legami creati continuino a durare nel tempo. Farò il tifo per voi a ogni vostro nuovo passo.\\[2cm]
+
+Estendo i ringraziamenti anche a Tareq, Luca e Francesco. Oltre ad essere compagni di università e amici, siete stati anche un esempio da seguire. Non ho iniziato al meglio il mio percorso universitario, ma prendervi come punto di riferimento mi ha dato ambizione e mi ha fatto tirare fuori il meglio di me. Sono sicuro che la vostra passione e determinazione vi porteranno ad essere ciò che più vorrete essere.\\[2cm]
+
+\end{flushleft}
+
+\begin{flushright}
+
+Simone
+
+\end{flushright}
