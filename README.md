@@ -22,3 +22,6 @@ Utilizing the **Lomb-Scargle periodogram** to search for cyclic patterns and sea
 
 ## Key Findings
 The analysis demonstrates that tool capability does not necessarily degrade in a smooth, linear fashion; rather, the Cpk often changes in sudden "jumps" due to unrecorded events or maintenance. Continuous, data-driven monitoring of the Cpk index offers a more responsive and accurate framework for scheduling maintenance and replacing machines compared to fixed-cycle estimates.
+
+## Author
+- Simone Massinelli
